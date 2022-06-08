@@ -7,7 +7,7 @@
 
 <h2 align="center"> 恒星是一个用于存储和移动货币的开放网络。 </h2>
 
-<p align="center">Awesome Stellar是一个精心策划的恒星应用程序、博客文章、教育资源、工具等的列表。</p>
+<p align="center">Awesome Stellar是一个精心维护的恒星应用程序、博客文章、教育资源、工具等的列表。</p>
 
 
 
@@ -36,19 +36,20 @@
 
 ## 官方渠道
 - [恒星官网](https://www.stellar.org/)
+- [恒星官方博客](https://www.stellar.org/blog/) 
+- [恒星开发者博客](https://www.stellar.org/developers-blog)
 - [Github](https://github.com/stellar)
 - [Twitter](https://twitter.com/StellarOrg)
 - [Keybase](https://keybase.io/team/stellar.public)
-- [恒星官方博客](https://www.stellar.org/blog/) 
-- [恒星社区博客](https://medium.com/stellar-community)
-- [恒星开发者博客](https://www.stellar.org/developers-blog)
-- [Discord](https://discord.com/invite/zVYdY3ktTn)
+- [Medium](https://medium.com/stellar-community)
+- [Discord(developer)](https://discord.gg/uArgR8xaZa)
 - [Reddit](https://www.reddit.com/r/Stellar/)
 - [YouTube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
 - [Stellar Podast YouTube](https://www.youtube.com/channel/UCHPQ8IGpoPftsid0s43wYpQ)
 - [Instagram](https://www.instagram.com/stellarorg/)
 - [Facebook](https://www.facebook.com/stellarfoundation) 
 - [LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
+- [Google Groups(developer)](https://groups.google.com/g/stellar-dev)
 
 
 ## 社区 
