@@ -1,6 +1,9 @@
 <div align="center"><img width="50%" align="center" src="stellar_logo.png"></div>
 <br>
-  <p align="center">This repository is forked from <a href="https://github.com/stellar/awesome-stellar">Awesome Stellar</a></p>
+  <p align="center">This repository is forked from <a href="https://github.com/stellar/awesome-stellar">Awesome Stellar</a>
+  
+  
+  </p>
 
 <h2 align="center"> 恒星是一个用于存储和移动货币的开放网络。 </h2>
 
@@ -27,6 +30,8 @@
 - [存储您的恒星资产](#存储您的恒星资产)
 - [使用恒星去中心化交易所](#使用恒星去中心化交易所)
 - [视频、播客和 AMA](#视频播客和-ama)
+- [贡献](#贡献)
+- [License](#license)
 
 
 ## 官方渠道
@@ -453,16 +458,20 @@
   - [SDF 更新和迷你 AMA - Jed McCaleb (1/28/19)](https://www.reddit.com/r/Stellar/comments/akup8k/sdf_update/)
 
 
-＃＃ 贡献
+## 贡献
 
 欢迎投稿！首先阅读[贡献指南](CONTRIBUTING.md)。
 
 拼写检查和检查损坏/不正确的链接也是受欢迎的 - 让我们保持列表干净！
 
 
-＃＃ 执照
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [kolten](https://github.com/koltenb) has waived all copyright and
+related or neighboring rights to this work.
+
 
 
 
