@@ -22,7 +22,7 @@
 - [博客和初学者指南](#博客和初学者指南)
 - [案例研究和见解](#案例研究和见解)
 - [网络统计](#网络统计)
-- [开发人员资源](#开发人员资源)
+- [开发者资源](#开发者资源)
 - [开发者教育资源](#开发者教育资源)
 - [了解恒星共识协议](#了解恒星共识协议)
 - [建立在 Stellar 上的项目](#建立在-stellar-上的项目)
@@ -39,9 +39,10 @@
 - [Github](https://github.com/stellar)
 - [Twitter](https://twitter.com/StellarOrg)
 - [Keybase](https://keybase.io/team/stellar.public)
-- [SDF 博客](https://www.stellar.org/blog/) 
+- [恒星官方博客](https://www.stellar.org/blog/) 
 - [恒星社区博客](https://medium.com/stellar-community)
 - [恒星开发者博客](https://www.stellar.org/developers-blog)
+- [Discord](https://discord.com/invite/zVYdY3ktTn)
 - [Reddit](https://www.reddit.com/r/Stellar/)
 - [YouTube](https://www.youtube.com/channel/UC4BrVpvKK0r2zP9xVFQcPSA)
 - [Stellar Podast YouTube](https://www.youtube.com/channel/UCHPQ8IGpoPftsid0s43wYpQ)
@@ -181,7 +182,7 @@
 - [银河视觉](http://galactic.vision) - 3D 网络和仲裁浏览器。
 
 
-## 开发人员资源
+## 开发者资源
 
 - [Stellar Dev Digest](https://stellar.us9.list-manage.com/subscribe?u=c001d97369b7a10d224c23867&id=e1f435dc0a) - 每周时事通讯涵盖 Stellar 开发者生态系统的所有内容。
 
